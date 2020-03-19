@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://moodeibief.tanplay.com/sitemap.xml
